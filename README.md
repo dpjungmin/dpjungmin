@@ -4,8 +4,6 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dpjungmin)](https:/
 
 Hi, I am currently preparing graduate school!
 
----
-
 **Languages:**
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
@@ -13,8 +11,6 @@ Hi, I am currently preparing graduate school!
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-
----
 
 <details>
   <summary>Github Stats</summary>
